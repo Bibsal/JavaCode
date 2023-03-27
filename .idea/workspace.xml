@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24327309-92dc-4a4a-bebd-b15a88603d0c" name="Changes" comment="Patterns">
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/Pattern12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/Pattern13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patterns/Pattern14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patterns/Pattern15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/patterns/Pattern11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patterns/Pattern11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/patterns/Pattern14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patterns/Pattern14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
